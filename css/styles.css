@@ -31,7 +31,7 @@ letter-spacing: 0.32px;
 .header-menu-list:focus {
     color: #404bbf
 }
-.logo-title2 {
+.logo-titlel {
     color: var(--IRIS, #4D5AE5);
 font-family: "Raleway", sans-serif;
 font-size: 18px;
