@@ -1,0 +1,135 @@
+body {
+font-family: 'Roboto', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+.header-list {
+    color: var(--NAVY-BLUE, #2E2F42);
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+}
+.header-menu-list {
+    color: var(--NAVY-BLUE, #2E2F42);
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5; 
+letter-spacing: 0.32px;
+}
+.logo-title {
+    color: var(--IRIS, #4D5AE5);
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.16; 
+letter-spacing: 0.54px;
+text-transform: uppercase;
+}
+.logo-title2 {
+    color: var(--NAVY-BLUE, #2E2F42);
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+}
+.header-menu-list:hover {
+    color: #404BBF;
+}
+.tel-info {
+    color: var(--SLATE, #434455);
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5; 
+letter-spacing: 0.32px;
+font-style: normal
+}
+.adrs-info {
+    color: var(--SLATE, #434455);
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5; 
+letter-spacing: 0.32px;
+font-style: normal
+}
+h1 {
+    color: var(--WHITE, #FFF);
+text-align: center;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07;
+letter-spacing: 1.12px;
+background: var(--NAVY-BLUE, #2E2F42);
+}
+.button {
+border-radius: 4px;
+background: var(--IRIS, #4D5AE5);
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+h3 {
+    color: var(--NAVY-BLUE, #2E2F42);
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.4px;
+}
+.integr-info {
+    color: var(--SLATE, #434455);
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.2;
+letter-spacing: 0.32px;
+}
+h2 {
+    color: var(--NAVY-BLUE, #2E2F42);
+text-align: center;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.11;
+letter-spacing: 0.72px;
+text-transform: capitalize;
+}
+.portfol-info {
+    color: var(--SLATE, #434455);
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.32px;
+}
+footer {
+    background: var(--NAVY-BLUE, #2E2F42);
+    width: 1440px;
+height: 312px;
+flex-shrink: 0;
+}
+.footr-logo {
+    color: var(--CLOUD, #F4F4FD);
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+}
+.last-word {
+    color: var(--CLOUD, #F4F4FD);
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.32px;
+}
