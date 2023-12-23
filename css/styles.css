@@ -31,7 +31,7 @@ letter-spacing: 0.32px;
 .header-menu-list:focus {
     color: #404bbf
 }
-.logo-titlel {
+.logotitlel {
     color: var(--IRIS, #4D5AE5);
 font-family: "Raleway", sans-serif;
 font-size: 18px;
@@ -40,7 +40,7 @@ line-height: 1.17;
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
-.logo-title {
+.logotitle {
     color: var(--NAVY-BLUE, #2E2F42);
 font-family: "Raleway", sans-serif;
 font-size: 18px;
