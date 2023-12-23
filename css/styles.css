@@ -120,6 +120,9 @@ line-height: 1.5;
 letter-spacing: 0.32px;
 
 }
+.thirsection {
+    background-color: #F4F4FD
+}
 h2 {
     color: var(--NAVY-BLUE, #2E2F42);
 text-align: center;
@@ -141,7 +144,7 @@ letter-spacing: 0.72px;
 text-transform: capitalize;
 background-color: #FFFFFF
 }
-.portfol-info {
+.portfolinfo {
     color: var(--SLATE, #434455);
 font-size: 16px;
 font-style: normal;
