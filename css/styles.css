@@ -73,7 +73,7 @@ letter-spacing: 0.32px;
 .adrsinfo:focus {
     color: #404bbf
 }
-.fir-logo {
+.firlogo {
     color: var(--WHITE, #FFF);
 text-align: center;
 font-size: 56px;
@@ -81,6 +81,9 @@ font-weight: 700;
 line-height: 1.07;
 letter-spacing: 1.12px;
 background: var(--NAVY-BLUE, #2E2F42);
+}
+.firsection {
+    background-color:#2E2F42
 }
 .button {
     color: var(--WHITE, #FFF);
@@ -95,6 +98,9 @@ cursor: pointer
 }
 .button:hover {
 background: var(--OCEAN, #404BBF);
+}
+.button:focus {
+    background-color: #404BBF;
 }
 .namename {
     color: var(--NAVY-BLUE, #2E2F42);
