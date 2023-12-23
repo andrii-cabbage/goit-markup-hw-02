@@ -187,3 +187,14 @@ footer {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
+.logotitlell {
+    color: var(--CLOUD, #F4F4FD);
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.16;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+}
+    
