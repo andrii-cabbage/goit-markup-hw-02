@@ -51,7 +51,7 @@ letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 
-.adrs-info {
+.adrsinfo {
     color: var(--SLATE, #434455);
 font-size: 16px;
 font-weight: 400;
@@ -59,13 +59,19 @@ line-height: 1.5;
 letter-spacing: 0.32px;
 font-style: normal
 }
-.adrs-info:hover {
+.adrsinfof {
+    font-style: normal
+}
+.adrsinfo:hover {
     color: var(--OCEAN, #404BBF);
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.32px;
+}
+.adrsinfo:focus {
+    color: #404bbf
 }
 .fir-logo {
     color: var(--WHITE, #FFF);
