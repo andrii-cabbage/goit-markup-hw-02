@@ -25,44 +25,32 @@ font-weight: 500;
 line-height: 1.5; 
 letter-spacing: 0.32px;
 }
+.header-menu-list:hover {
+    color: #404BBF;
+}
+.header-menu-list:focus {
+    color: #404bbf
+}
 .logo-title2 {
     color: var(--IRIS, #4D5AE5);
-font-family: Raleway;
+font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-weight: 700;
-line-height: 1.16; 
+line-height: 1.17; 
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 .logo-title {
     color: var(--NAVY-BLUE, #2E2F42);
-font-family: Raleway;
+font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
-line-height: 1.16;
+line-height: 1.17;
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
-.header-menu-list:hover {
-    color: #404BBF;
-}
-.tel-info {
-    color: var(--SLATE, #434455);
-font-size: 16px;
-font-weight: 400;
-line-height: 1.5; 
-letter-spacing: 0.32px;
-font-style: normal
-}
-.tel-info:hover {
-    color: var(--OCEAN, #404BBF);
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 1.5;
-letter-spacing: 0.32px;
-}
+
 .adrs-info {
     color: var(--SLATE, #434455);
 font-size: 16px;
@@ -79,7 +67,7 @@ font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.32px;
 }
-h1 {
+.fir-logo {
     color: var(--WHITE, #FFF);
 text-align: center;
 font-size: 56px;
@@ -90,31 +78,35 @@ background: var(--NAVY-BLUE, #2E2F42);
 }
 .button {
     color: var(--WHITE, #FFF);
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.64px;
 background: var(--IRIS, #4D5AE5);
+cursor: pointer
 }
 .button:hover {
 background: var(--OCEAN, #404BBF);
 }
-h3 {
+.name-name {
     color: var(--NAVY-BLUE, #2E2F42);
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.4px;
+background-color: #FFFFFF;
 }
 .integr-info {
     color: var(--SLATE, #434455);
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
-line-height: 1.2;
+line-height: 1.5;
 letter-spacing: 0.32px;
+
 }
 h2 {
     color: var(--NAVY-BLUE, #2E2F42);
@@ -125,6 +117,17 @@ font-weight: 700;
 line-height: 1.11;
 letter-spacing: 0.72px;
 text-transform: capitalize;
+}
+.integr-logo {
+    color: var(--NAVY-BLUE, #2E2F42);
+text-align: center;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.11;
+letter-spacing: 0.72px;
+text-transform: capitalize;
+background-color: #FFFFFF
 }
 .portfol-info {
     color: var(--SLATE, #434455);
