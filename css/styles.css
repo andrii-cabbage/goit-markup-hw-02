@@ -1,6 +1,7 @@
 body {
 font-family: 'Roboto', sans-serif;
 background: #FFF;
+color: #434455
 }
 a {
     text-decoration: none;
@@ -24,7 +25,7 @@ font-weight: 500;
 line-height: 1.5; 
 letter-spacing: 0.32px;
 }
-.logo-title {
+.logo-title2 {
     color: var(--IRIS, #4D5AE5);
 font-family: Raleway;
 font-size: 18px;
@@ -33,7 +34,7 @@ line-height: 1.16;
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
-.logo-title2 {
+.logo-title {
     color: var(--NAVY-BLUE, #2E2F42);
 font-family: Raleway;
 font-size: 18px;
@@ -94,14 +95,10 @@ background: var(--NAVY-BLUE, #2E2F42);
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.64px;
-    border-radius: 4px;
 background: var(--IRIS, #4D5AE5);
-box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 .button:hover {
-    border-radius: 4px;
 background: var(--OCEAN, #404BBF);
-box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 h3 {
     color: var(--NAVY-BLUE, #2E2F42);
@@ -139,9 +136,6 @@ letter-spacing: 0.32px;
 }
 footer {
     background: var(--NAVY-BLUE, #2E2F42);
-    width: 1440px;
-height: 312px;
-flex-shrink: 0;
 }
 .footr-logo {
     color: var(--CLOUD, #F4F4FD);
